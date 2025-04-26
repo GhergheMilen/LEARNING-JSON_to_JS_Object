@@ -1,4 +1,4 @@
-![Preview](.assests/preview.png)
-![Preview](.assests/extended1.png)
-![Preview](.assests/extended2.png)
-![Preview](.assests/extended3.png)
+![Preview](.assets/preview.png)
+![Preview](.assets/extended1.png)
+![Preview](.assets/extended2.png)
+![Preview](.assets/extended3.png)
